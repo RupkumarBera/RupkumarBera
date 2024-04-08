@@ -1,4 +1,4 @@
-![logo](https://github.com/jyotishman08/jyotishman08/blob/main/1st.gif)
+![logo](https://github.com/RupkumarBera/RupkumarBera/blob/main/1.gif)
 <h1 align="center">Hi 👋, I'm Rupkumar Bera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
