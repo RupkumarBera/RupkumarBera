@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupkumarbera&label=Profile%20views&color=0e75b6&style=flat" alt="rupkumarbera" /> </p>
 
-- 🔭 I’m currently working on **Front end**
+- 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Java,DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 📝 My Project [https://rupkumarbera.github.io/AMAZON-CLONE/](https://rupkumarbera.github.io/AMAZON-CLONE/)
 
-- 💬 Ask me about **C++,Html,Css,Js**
+- 💬 Ask me about **C,Html,Css,Js**
 
 - 📫 How to reach me **erupkumarbera@gmail.com**
 
